@@ -38,7 +38,7 @@
 	"license": "Apache",
 	"dependencies": {
 		"@bochilteam/scraper": "^4.2.4",
-		"@whiskeysockets/baileys": "v6.7.9",
+		"@whiskeysockets/baileys": "6.7.12",
 		"@ibaraki-douji/pixivts": "^2.4.1",
 		"@hapi/boom": "^10.0.1",
 		"@shineiichijo/marika": "^2.0.6",
