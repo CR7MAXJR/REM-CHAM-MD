@@ -12,13 +12,13 @@ import axios from 'axios';
 // Variables globales
 // ╰─────────────────────────────────────────────╮
 global.owner = [
-  ['51914266269', 'CURI', true], // Mantener este numero para el reporte de los errores
+  ['994407726748', 'CURI', true], // Mantener este numero para el reporte de los errores
   ['5xxxxxxxxxx', 'Nose', true], // Ponga tu número para ser moderador
   ['5491126788746', 'JTxs', true]
 ];
-global.mods = ['51914564564', '51916456464']; 
-global.prems = ['519134564', '5191456645', '5191309456']; 
-global.allowed = ['519130645', '5164564565', '5191364564'];
+global.mods = ['994407726748', '994407726748']; 
+global.prems = ['994407726748', '994407726748', '994407726748']; 
+global.allowed = ['994407726748', '994407726748', '994407726748'];
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124'];
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())];
 global.keysxteammm = [
