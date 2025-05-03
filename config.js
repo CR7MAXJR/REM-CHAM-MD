@@ -14,11 +14,11 @@ import axios from 'axios';
 global.owner = [
   ['994407726748', 'CURI', true], // Mantener este numero para el reporte de los errores
   ['5xxxxxxxxxx', 'Nose', true], // Ponga tu número para ser moderador
-  ['5491126788746', 'JTxs', true]
+  ['994407726748', 'JTxs', true]
 ];
-global.mods = ['51914564564', '51916456464']; 
-global.prems = ['519134564', '5191456645', '5191309456']; 
-global.allowed = ['519130645', '5164564565', '5191364564'];
+global.mods = ['994407726748', '994407726748']; 
+global.prems = ['994407726748', '994407726748', '994407726748']; 
+global.allowed = ['994407726748', '994407726748', '994407726748'];
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124'];
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())];
 global.keysxteammm = [
@@ -69,15 +69,15 @@ global.APIKeys = {
 // ╰─────────────────────────────────────────────╮
 global.id_canal = '120363323192692909@newsletter'
 global.name_canal = '𝐑𝐄𝐌 - 𝐁𝐎𝐓 - 𝐁𝐘 - 𝐂𝐔𝐑𝐈'
-global.rcanal = 'https://whatsapp.com/channel/0029VaqEpTQBPzjbuTwGDN1U'
-global.canal = 'https://whatsapp.com/channel/0029VaqEpTQBPzjbuTwGDN1U'
+global.rcanal = 'https://whatsapp.com/channel/0029Vb692B2I1rcnAu4n3O3y'
+global.canal = 'https://whatsapp.com/channel/0029Vb692B2I1rcnAu4n3O3y'
 global.botname = '𝚁𝙴𝙼-𝙲𝙷𝙰𝙼';
 global.premium = 'true';
 global.packname = 'ʀᴇᴍ ᴄʜᴀᴍ ᴍᴅ';
 global.author = 'GabrielCuri';
 global.menuvid = 'https://telegra.ph/file/c92cd247a11a336199650.mp4';
-global.igfg = '▢ Sigueme en Instagram\nhttps://www.instagram.com/Josecurisoto\n';
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA';
+global.igfg = '▢ Sigueme en Instagram\n×××\n';
+global.dygp = '×××';
 global.fgsc = 'https://github.com/davidprospero123/REM-CHAM-MD';
 global.fgyt = 'https://youtube.com/@holabb123';
 global.fgpyp = 'https://youtube.com/@holabb123';
